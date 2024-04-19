@@ -36,13 +36,13 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* vh stands for viewport height */
+    min-height: 100vh; 
     
 
 }
   
   form {
-    width: 50%; /* adjust this value to control the form's width */
+    width: 50%;
     
   }
   
