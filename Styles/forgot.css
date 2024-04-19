@@ -5,9 +5,9 @@
 }
 
 .container-bg {
-    background-color: #f0f0f0; /* Light grey background color */
-    padding: 20px; /* Add padding for spacing */
-    border-radius: 10px; /* Add border radius for rounded corners */
-    border: 2px solid black; /* Add black border with thickness of 2 pixels */
-    display: inline-block; /* Make the container flexible to fit the content */
+    background-color: #f0f0f0; 
+    padding: 20px; 
+    border-radius: 10px; 
+    border: 2px solid black; 
+    display: inline-block; 
 }
