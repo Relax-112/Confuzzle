@@ -1,4 +1,12 @@
- 
+ /*
+body {
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(315deg, #ffffff 0%, #d9dee4 74%);
+
+  }
+*/
+
 
  .signup-heading {
      margin-top: 1cm !important;
@@ -112,4 +120,9 @@
 
  .admincenter{
      text-align: center;
+ }
+
+
+ .goncte{
+    margin-left: 30cm;
  }

@@ -1,0 +1,13 @@
+.espaco{
+
+    margin-top: 1%;
+
+}
+
+.container-bg {
+    background-color: #f0f0f0; /* Light grey background color */
+    padding: 20px; /* Add padding for spacing */
+    border-radius: 10px; /* Add border radius for rounded corners */
+    border: 2px solid black; /* Add black border with thickness of 2 pixels */
+    display: inline-block; /* Make the container flexible to fit the content */
+}
